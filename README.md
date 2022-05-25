@@ -5,6 +5,6 @@ Gmail-iydeejaymes@gmail.com
 
 A scientist👩‍🔬 but stuck with codes👩‍💻
 
-Instagram- Instagram.com/_iydee
+Instagram- http://instagram.com/_iydee
 
-Twitter- Twitter.com/_iydee
+Twitter- http://twitter.com/_iydee
