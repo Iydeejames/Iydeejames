@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Iydeejames
-- 🌱 I’m currently learning something new in the world of codes.
+-  Hi, I’m @Iydeejames
+- Frontend? Yeah.
 
--📨 iydeejaymes@gmail.com
--Okay, I'm a scientist👩‍🔬 but stuck with zeros and ones👩‍💻
+- iydeejaymes@gmail.com
+
+-A scientist👩‍🔬 but stuck with zeros and ones👩‍💻
