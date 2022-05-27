@@ -1,9 +1,12 @@
 -  Hi, I’m @Iydeejames a Nigerian web developer.
-- Frontend? Yeah.
+- HTML, css and JavaScript. 
+-About learning react. 
+-Frontend. 
 
 Gmail-iydeejaymes@gmail.com
 
-A scientist👩‍🔬 but stuck with codes👩‍💻
+I studied Chemistry but I'd rather be here.
+-I'm open to collaborating and gaining more experience.
 
 Instagram- http://instagram.com/_iydee
 
