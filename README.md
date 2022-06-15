@@ -1,6 +1,6 @@
 -  Hi, I’m @Iydeejames a Nigerian.
 - HTML, css and JavaScript. 
--About learning react. 
+-Frameworks in view. 
 -Frontend. 
 
 Gmail- iydeejaymes@gmail.com
