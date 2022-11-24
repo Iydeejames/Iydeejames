@@ -1,18 +1,11 @@
--  Hi, I’m @Iydeejames a Nigerian.
-- HTML, css and JavaScript. 
+-  Hi,I am a passionate FrontEnd Developer from Nigeria.
+- I'm currently working with JavaScript, ReactJS and Python.
 
--Frameworks in view. 
--Frontend. 
 
 Gmail- iydeejaymes@gmail.com
-
-I studied Chemistry but I'd rather be here.
 -I'm open to collaborating and gaining more experience.
 
 Instagram- http://instagram.com/_iydee
 
 Twitter- http://twitter.com/_iydee
-
-Currently learning with @Spantrix
-
-Self-taught with Udemy
+Fun Fact- I read stories and play basketball at my spare time.
