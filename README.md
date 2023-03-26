@@ -1,15 +1,12 @@
 -  Hi,I am a passionate FrontEnd Developer from Nigeria.
  
-- I'm currently working with JavaScript, ReactJS and Python.
+- I'm currently working with JavaScript, ReactJS, Typescript and Bootstrap.
+
+- I'm open to collaborating and gaining more experience.
+
+-📩 @iydeejaymes@gmail.com
 
 
--Gmail- iydeejaymes@gmail.com
+-Instagram http://instagram.com/_iydee
 
--I'm open to collaborating and gaining more experience.
-
--Instagram- http://instagram.com/_iydee
-
--Twitter- http://twitter.com/_iydee
-
-
--Fun Fact- I read stories and play basketball at my spare time.
+-Twitter http://twitter.com/_iydee
