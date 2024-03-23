@@ -1,12 +1,5 @@
--  Hi,I am a passionate FrontEnd Developer from Nigeria.
- 
-- I'm currently working with JavaScript, ReactJS, Typescript and Bootstrap.
-
-- I'm open to collaborating and gaining more experience.
+Highly skilled Software Developer with a passion for building user friendly websites and applications. Proficient in HTMH/CSS, Javascript, Tailwind CSS, React Js/Native and Vue. Dedicated to continuous learning and innovation in the Tech Space. Excited to collaborate and contribute to impactful projects.
 
 -📩 @iydeejaymes@gmail.com
-
-
 -Instagram http://instagram.com/_iydee
-
--Twitter http://twitter.com/_Idaraobongjames
+-Twitter: http://twitter.com/_Idaraobongjames
