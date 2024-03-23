@@ -4,4 +4,4 @@ Highly skilled Software Developer with a passion for building user friendly webs
 
 -IG http://instagram.com/_iydee
 
--Twitter: http://twitter.com/_Idaraobongjames
+-X http://twitter.com/_Idaraobongjames
