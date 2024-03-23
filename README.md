@@ -1,4 +1,4 @@
-Highly skilled Software Developer with a passion for building user friendly websites and applications. Proficient in HTMH/CSS, Javascript, Tailwind CSS, React Js/Native and Vue. Dedicated to continuous learning and innovation in the Tech Space. Excited to collaborate and contribute to impactful projects.
+Highly skilled Software Developer with a passion for building user friendly websites and applications. Proficient in HTML/CSS, Javascript, Tailwind CSS, React Js/Native and Vue. Dedicated to continuous learning and innovation in the Tech Space. Excited to collaborate and contribute to impactful projects.
 
 -📩 @iydeejaymes@gmail.com
 
